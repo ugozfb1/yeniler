@@ -1,1 +1,4 @@
+
 # yeniler
+
+denemeye devam
